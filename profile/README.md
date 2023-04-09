@@ -10,7 +10,7 @@
 
 ### $$\mathbb{\color{lightgreen}REPOSITÓRIOS}$$
 
-- [Backup do Backend]()
-- [Backup do Frontend]()
-- [Backup da Infraestrutura]()
-- [Gerenciamento da Equipe]()
+- [Backup do Backend](https://github.com/VeiculosMontadora/Backup_Backend)
+- [Backup do Frontend](https://github.com/VeiculosMontadora/Backup_Frontend)
+- [Backup da Infraestrutura](https://github.com/VeiculosMontadora/Backup_Infra)
+- [Gerenciamento da Equipe](https://github.com/VeiculosMontadora/Management)
