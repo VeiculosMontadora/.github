@@ -14,7 +14,7 @@
 
 ---
 
-### $$\mathbb{\color{lightgreen}REPOSITÓRIOS}$$
+### $$\sf{\color{lightgreen}Projetos}$$
 
 - [Backup do Backend](https://github.com/VeiculosMontadora/Backup_Backend)
 - [Backup do Frontend](https://github.com/VeiculosMontadora/Backup_Frontend)
