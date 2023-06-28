@@ -14,10 +14,11 @@
 
 ---
 
-### $$\sf{\color{lightgreen}Projetos}$$
+## $$\sf{\color{lightgreen}Projetos}$$
 
-- [Backup do Backend](https://github.com/VeiculosMontadora/Backup_Backend)
-- [Backup do Frontend](https://github.com/VeiculosMontadora/Backup_Frontend)
-- [Backup da Infraestrutura](https://github.com/VeiculosMontadora/Backup_Infra)
-- [Gerenciamento da Equipe](https://github.com/VeiculosMontadora/Management)
-- [Sanbox de testes](https://github.com/VeiculosMontadora/Backup_Sandbox)
+- [✔️ Backup do Backend](https://github.com/VeiculosMontadora/Backup_Backend)
+- [✔️ Backup do Frontend](https://github.com/VeiculosMontadora/Backup_Frontend)
+- [✔️ Backup da Infraestrutura](https://github.com/VeiculosMontadora/Backup_Infra)
+- [✔️ Gerenciamento da Equipe](https://github.com/VeiculosMontadora/Management)
+- [✔️ Sanbox de testes](https://github.com/VeiculosMontadora/Backup_Sandbox)
+- [✔️ Wiki oficial desenvolvido](https://github.com/VeiculosMontadora/Backup_Images_Wiki/wiki)
